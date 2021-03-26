@@ -7,7 +7,7 @@ var sellerInfos = [];
 var sellerList = [];
 
 async function getArray() {
-    res = await $.post('https://api.keepa.com/product?key=4el13p0j3qrl5kqqkr5larsf1mrjvlo5pus8jubdceucsi3geagm8o3pi8l6nurv&domain=2&asin=B01FN4DP2C&stats=365&history=1&days=365&offers=20&buybox=1&update=1&rating=1');
+    res = await $.post('https://api.keepa.com/product?key=Your Key&domain=2&asin=B01FN4DP2C&stats=365&history=1&days=365&offers=20&buybox=1&update=1&rating=1');
     var startTime = 0, beforeTime = 0;
     var totalTime = 0;
     var currentTime = parseInt(Date.now() / 60000 - 21564000);
@@ -20,7 +20,7 @@ async function getArray() {
             if(element != '-1' && element != '-2') {
                 if(!sellerList[element]) {
                     data = await $.post(
-                        'https://api.keepa.com/seller?key=4el13p0j3qrl5kqqkr5larsf1mrjvlo5pus8jubdceucsi3geagm8o3pi8l6nurv&domain=2&update=1&seller=' + element
+                        'https://api.keepa.com/seller?key=Your Key&domain=2&update=1&seller=' + element
                     );
                     sellerList[element] = data.sellers[element].sellerName;
                     sellerInfos[element] = {
