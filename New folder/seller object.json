@@ -1,0 +1,178 @@
+{
+    "timestamp": 1616687199495,
+    "tokensLeft": 3476,
+    "refillIn": 42386,
+    "refillRate": 60,
+    "tokenFlowReduction": 0.0,
+    "tokensConsumed": 10,
+    "processingTimeInMs": 585,
+    "sellers": {
+        "A1ZLB8TL2T8J1B": {
+            "trackedSince": 3985732,
+            "domainId": 2,
+            "sellerId": "A1ZLB8TL2T8J1B",
+            "sellerName": "NonSoloGiocattoli",
+            "csv": [
+                [
+                    4590048,
+                    0,
+                    4793618,
+                    50,
+                    4944304,
+                    67,
+                    5037082,
+                    75,
+                    5119168,
+                    80
+                ],
+                [
+                    4590048,
+                    1,
+                    4793618,
+                    2,
+                    4944304,
+                    3,
+                    5037082,
+                    4,
+                    5119168,
+                    5
+                ]
+            ],
+            "lastUpdate": 5119168,
+            "isScammer": false,
+            "hasFBA": false,
+            "totalStorefrontAsins": null,
+            "sellerCategoryStatistics": [
+                {
+                    "catId": 468292,
+                    "productCount": 122,
+                    "avg30SalesRank": 290412,
+                    "productCountWithAmazonOffer": 76
+                },
+                {
+                    "catId": 11052681,
+                    "productCount": 14,
+                    "avg30SalesRank": 1994724,
+                    "productCountWithAmazonOffer": 2
+                },
+                {
+                    "catId": 340834031,
+                    "productCount": 5,
+                    "avg30SalesRank": 174676,
+                    "productCountWithAmazonOffer": 0
+                },
+                {
+                    "catId": 9223372036854775807,
+                    "productCount": 5,
+                    "avg30SalesRank": 0,
+                    "productCountWithAmazonOffer": 3
+                },
+                {
+                    "catId": 3146281,
+                    "productCount": 4,
+                    "avg30SalesRank": 847156,
+                    "productCountWithAmazonOffer": 1
+                },
+                {
+                    "catId": 192413031,
+                    "productCount": 3,
+                    "avg30SalesRank": 286660,
+                    "productCountWithAmazonOffer": 3
+                },
+                {
+                    "catId": 117332031,
+                    "productCount": 2,
+                    "avg30SalesRank": 18537,
+                    "productCountWithAmazonOffer": 1
+                },
+                {
+                    "catId": 2454166031,
+                    "productCount": 2,
+                    "avg30SalesRank": 0,
+                    "productCountWithAmazonOffer": 2
+                },
+                {
+                    "catId": 11052671,
+                    "productCount": 1,
+                    "avg30SalesRank": 24150,
+                    "productCountWithAmazonOffer": 1
+                },
+                {
+                    "catId": 213077031,
+                    "productCount": 1,
+                    "avg30SalesRank": 167125,
+                    "productCountWithAmazonOffer": 0
+                }
+            ],
+            "sellerBrandStatistics": [
+                {
+                    "brand": "clementoni",
+                    "productCount": 17,
+                    "avg30SalesRank": 931456,
+                    "productCountWithAmazonOffer": 5
+                },
+                {
+                    "brand": "lego",
+                    "productCount": 14,
+                    "avg30SalesRank": 37286,
+                    "productCountWithAmazonOffer": 4
+                },
+                {
+                    "brand": "trudi",
+                    "productCount": 14,
+                    "avg30SalesRank": 543494,
+                    "productCountWithAmazonOffer": 13
+                },
+                {
+                    "brand": "barbie",
+                    "productCount": 9,
+                    "avg30SalesRank": 26235,
+                    "productCountWithAmazonOffer": 5
+                },
+                {
+                    "brand": "simba",
+                    "productCount": 9,
+                    "avg30SalesRank": 319957,
+                    "productCountWithAmazonOffer": 8
+                },
+                {
+                    "brand": "ravensburger",
+                    "productCount": 8,
+                    "avg30SalesRank": 184142,
+                    "productCountWithAmazonOffer": 3
+                },
+                {
+                    "brand": "imc toys",
+                    "productCount": 6,
+                    "avg30SalesRank": 59362,
+                    "productCountWithAmazonOffer": 6
+                },
+                {
+                    "brand": "seletti",
+                    "productCount": 5,
+                    "avg30SalesRank": 2130207,
+                    "productCountWithAmazonOffer": 1
+                },
+                {
+                    "brand": "dal negro",
+                    "productCount": 4,
+                    "avg30SalesRank": 579562,
+                    "productCountWithAmazonOffer": 3
+                },
+                {
+                    "brand": "intex",
+                    "productCount": 4,
+                    "avg30SalesRank": 6226,
+                    "productCountWithAmazonOffer": 4
+                }
+            ],
+            "shipsFromChina": false,
+            "asinList": null,
+            "asinListLastSeen": null,
+            "totalStorefrontAsinsCSV": null,
+            "currentRating": 80,
+            "currentRatingCount": 5,
+            "ratingsLast30Days": 0
+        }
+    }
+}
